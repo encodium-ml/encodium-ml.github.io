@@ -179,7 +179,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 # Generate sample data
-X = np.array([[1], [2], [3], [4], [5]])
+X = np.array([[1], [2], [3], [4], [5], [6]])
 y = np.array([2, 4, 5, 4, 5])
 
 # Create and train the model
