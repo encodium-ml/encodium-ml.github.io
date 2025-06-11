@@ -21,7 +21,7 @@ export const STUDENT_COURSE: Course = {
   ],
   duration: '1 hour per class',
   price: '$20 per class',
-  formLink: 'https://forms.gle/exampleStudentForm',
+  formLink: 'https://forms.gle/QXJUWjgpCNmJbEEVA',
 };
 
 export const ADULT_COURSE: Course = {
